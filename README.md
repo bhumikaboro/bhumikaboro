@@ -1,16 +1,36 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is Nerswn and I'm a Student.</h2>
 
-<!--
-**bhumikaboro/bhumikaboro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+
+<div align="left">
+
+<a href="https://www.youtube.com/@Dipen_Brahma?sub_confirmation=1"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n_.dipen_dipen.8)
+ 
+
+
+
+ 
+  <a href="https://discord.gg/EsJHxGRpuR"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+
+
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dipenbrahma.gt.tc)
+
+ 
+</div>
+
+###
+
+
+###
